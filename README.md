@@ -1,5 +1,5 @@
 # Avl-Tree
-Iplementasi AVL Tree dalam bahasa C
+Implementasi AVL Tree dalam bahasa C
 
 ===Note==
 1.Open WSL
